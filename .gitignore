@@ -1,0 +1,9 @@
+# Archivos compilados de Python
+*.pyc
+
+# Carpetas innecesarias
+.vscode/
+__pycache__/
+
+# Variables de entorno
+.env
